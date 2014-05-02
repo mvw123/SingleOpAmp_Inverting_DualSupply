@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 22/03/2014 19:02:43
+
+BeginCmp
+TimeStamp = /532D86CE/532D8843;
+Reference = BT201;
+ValeurCmp = 9V_BATTERY;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532D8849;
+Reference = BT202;
+ValeurCmp = 9V_BATTERY;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532D9261;
+Reference = C201;
+ValeurCmp = 100u;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532D9270;
+Reference = C202;
+ValeurCmp = 100u;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532D8801;
+Reference = P201;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532D8834;
+Reference = P202;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532D87DD;
+Reference = R201;
+ValeurCmp = 1k;
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532D87D7;
+Reference = R202;
+ValeurCmp = 10k;
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532DE079;
+Reference = R203;
+ValeurCmp = 1.5k;
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532DD6E6;
+Reference = RV201;
+ValeurCmp = 100k;
+IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /532D86CE/532DD5B6;
+Reference = U201;
+ValeurCmp = TL071;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe

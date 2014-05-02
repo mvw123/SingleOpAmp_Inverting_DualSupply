@@ -1,0 +1,12 @@
+* C:\Documents and Settings\Michael Walsh\My Documents\GitHub\SingleOpAmp_Inverting_DualSupply\Simulations\Active_Amp.sxsch
+*#SIMETRIX
+X1 0 X1_inn VCC VEE R2_P TL072 pinnames: inp inn vsp vsn out
+V1 VCC 0 9
+V2 V_IN 0 AC 100m 0
+R1 X1_inn V_IN 1k
+V3 VEE 0 -9
+R2 R2_P X1_inn 10k
+.GRAPH R2_P axisType="auto" persistence=-1 curveLabel="FILTER_OUTPUT" xLog="auto" yLog="auto"  nowarn=true' 
+.GRAPH V_IN curveLabel= V_IN nowarn=true ylog=auto xlog=auto 
+.AC DEC 25 100 100Meg
+
