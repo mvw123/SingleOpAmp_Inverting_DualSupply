@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:SingleOpAmp_Inverting_DualSupply-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -10,7 +11,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:diy_ics
 LIBS:SingleOpAmp_Inverting_DualSupply-cache
-EELAYER 27 0
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
